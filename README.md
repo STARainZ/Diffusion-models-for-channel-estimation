@@ -16,4 +16,7 @@ Coming soon
 
 [2] B. Fesl, M. Baur, F. Strasser, M. Joham, and W. Utschick, “Diffusion-based generative prior for low-complexity MIMO channel estimation,” Mar. 2024. [Online] Available: http://arxiv.org/abs/2403.03545.
 
-[3] M. Arvinte and J. I. Tamir, “MIMO channel estimation using score-based generative models,” IEEE Trans. Wireless Commun., vol. 22, no. 6, pp. 3698–3713, Jun. 2023
+[3] M. Arvinte and J. I. Tamir, “MIMO channel estimation using score-based generative models,” IEEE Trans. Wireless Commun., vol. 22, no. 6, pp. 3698–3713, Jun. 2023.
+
+## Contact
+If you have any questions or comments about this work, please feel free to contact xy_zhou@seu.edu.cn.
